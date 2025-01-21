@@ -12,3 +12,11 @@ Backend : PHP para o gerenciamento das interações do site, incluindo o cadastr
 Banco de Dados : SQL Server e MySQL para armazenar dados dos usuários, resultados de quizzes, e informações sobre os experimentos e conteúdos.
 Design : Layout intuitivo e colorido, pensado para atrair o público jovem, com ícones e imagens educativas que tornam o site mais interativo.
 Objetivo Educacional : Estimular a curiosidade científica, promover a aprendizagem ativa e tornar o estudo de ciências mais acessível e interessante para os jovens.
+
+Colaboradores: 
+Thiago Akimoto
+Vitor Lisboa
+Lucas Reali
+Enzo Barros
+Leonardo Seccon
+Gabriel Conti
